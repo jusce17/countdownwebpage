@@ -7,9 +7,9 @@ A 'coming soon' landing page using:
 #JavaScript
 
 
-Fully Responsive(CSS Media Queries)
-Incorporate new Bootstrap components 
-Custom Fonts
-Collect emails with PHP Markup
-Font-Awesome Icons
-CSS Animation
+Fully Responsive(CSS Media Queries) - 
+Incorporate new Bootstrap components - 
+Custom Fonts - 
+Collect emails with PHP Markup - 
+Font-Awesome Icons - 
+CSS Animation - 
