@@ -43,6 +43,8 @@ if(isset($_POST['submit'])){
       <link href="https://fonts.googleapis.com/css?family=Just+Another+Hand" rel="stylesheet">
       
       <link href="https://fonts.googleapis.com/css?family=Amatica+SC:400,700" rel="stylesheet">
+      
+     <link href="https://fonts.googleapis.com/css?family=Reem+Kufi" rel="stylesheet">
     
   </head>
   <body>
@@ -62,7 +64,7 @@ if(isset($_POST['submit'])){
       <div class="container">
           <div class="row">
               <div class="col-md-12">
-              <p>we will  launch soon..</p>
+              <p>WE WILL BACK SOON</p>
               </div>
           </div>
           </div>
@@ -96,7 +98,7 @@ if(isset($_POST['submit'])){
                       <a href="www.instagram.com" target="_blank">  <li class="list-inline-item"><i class="fa instagram fa-instagram fa-2x" aria-hidden="true"></i></li></a>
                       
                   </ul>
-             
+            
               </div>
           </div>
           </div>
@@ -118,6 +120,7 @@ if(isset($_POST['submit'])){
                  
              
               </div>
+               <br><br>
           </div>
           </div>
       </section>
@@ -136,7 +139,7 @@ if(isset($_POST['submit'])){
       
           $(function() {
     $('.countdown').countdown({
-        date: "June 7, 2017 15:03:26"
+        date: "November 14, 2017 15:03:26"
     });
 });
       
