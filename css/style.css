@@ -30,7 +30,7 @@ html, body{
 
 #logo img {
     
-    padding-top: 20px;
+    padding-top: 10px;
 }
 
 
@@ -38,15 +38,15 @@ html, body{
         
     color: white;
     text-align: center;
-    font-family: 'Just Another Hand', cursive;
+    font-family:/* 'Just Another Hand', cursive;*/   'Reem Kufi', sans-serif;
     font-size: 1.8em;
 }
 
 #counter .countdown{
     text-align: center;
     color: white;
-    font-family: 'Amatica SC', cursive;
-    font-size: 3em;
+    font-family: /*'Amatica SC', cursive;*/   'Reem Kufi', sans-serif;
+    font-size: 1.4em;
     
 }
 
