@@ -1,5 +1,6 @@
 html, body{
-    background: url(../img/bg.jpg) center no-repeat;
+    background-color: black;
+  background: url(../img/bg.jpg) /*center no-repeat*/;
     height: 100%;
     background-size: cover;
     
